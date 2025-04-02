@@ -31,8 +31,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjdls2549)](https://solved.ac/profile/rjdls2549)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyunse0&hide=contribs,prs&show_icons=true&theme=graywhite)
+[![khyunse0's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyunse0&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=100&section=footer&text=&fontSize=0" />
   
 </div>
