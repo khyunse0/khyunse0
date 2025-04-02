@@ -3,7 +3,7 @@
 </div>
 
 <div align = "center">
-  <h1>Kim Hyun Seo</h1>
+  <h1>🐧Kim Hyun Seo</h1>
 </div>
 
 <div align="center">
