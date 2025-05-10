@@ -21,7 +21,20 @@
 <img src="https://img.shields.io/badge/oracle-C74634?style=for-the-badge&logo=oracle&logoColor=white">
   <br>
   <br>
+</div>
 
+---
+
+<div align="center">
+<h2>🛠️ My Projects</h2>
+이미지 기반 두피 분석 웹 서비스 :                       
+<a href="https://port-0-dubu-mag2lwjy68d1db23.sel4.cloudtype.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Dubu_Project-FFB6C1?style=for-the-badge&logo=django&logoColor=white">
+</a>
+
+</div>
+
+---
 
 <div align = "center">
 <br>
@@ -32,6 +45,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjdls2549)](https://solved.ac/profile/rjdls2549)
 
 [![khyunse0's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyunse0&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=100&section=footer&text=&fontSize=0" />
   
 </div>
