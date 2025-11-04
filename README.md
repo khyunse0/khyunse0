@@ -59,7 +59,6 @@ SEMES연계 bmp이미지 생성 및 tiff압축 알고리즘 개발 :
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khyunse0&layout=compact&theme=dark)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjdls2549)](https://solved.ac/profile/rjdls2549)
 
