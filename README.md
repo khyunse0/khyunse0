@@ -15,11 +15,16 @@
   <br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+  <img src="https://img.shields.io/badge/Pytorch-red?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Tensorflow-black?style=for-the-badge&logo=tensorflow&logoColor=white">
   <br>
   <br>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-<img src="https://img.shields.io/badge/oracle-C74634?style=for-the-badge&logo=oracle&logoColor=white">
+
+  <img src="https://img.shields.io/badge/C++-purple?style=for-the-badge&logo=Cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/CUDA-green?style=for-the-badge&logo=nvidia&logoColor=white">
   <br>
+  <br>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <br>
 </div>
 
@@ -28,10 +33,24 @@
 <div align="center">
 <h2>🛠️ My Projects</h2>
 이미지 기반 두피 분석 웹 서비스 :                       
-<a href="https://port-0-dubu-mag2lwjy68d1db23.sel4.cloudtype.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Dubu_Project-FFB6C1?style=for-the-badge&logo=django&logoColor=white">
+<a target="_blank">
+    <img src="https://img.shields.io/badge/Dubu-FFB6C1?style=for-the-badge&logo=django&logoColor=white">
 </a>
-
+  <br>
+그림 심리 분석/상담 웹 앱 :                       
+<a target="_blank">
+    <img src="https://img.shields.io/badge/마음캔버스-lightyellow?style=for-the-badge&logo=SpringBoot&logoColor=green">
+</a>
+  <br>
+CCTV감시 자동화 공사 현장 위험 감지 웨어러블/모바일/웹 :                       
+<a target="_blank">
+    <img src="https://img.shields.io/badge/Watch Out!-sky blue?style=for-the-badge&logo=SpringBoot&logoColor=green">
+</a>
+  <br>
+SEMES연계 bmp이미지 생성 및 tiff압축 알고리즘 개발 :                       
+<a target="_blank">
+    <img src="https://img.shields.io/badge/SEMES-blue?style=for-the-badge&logo=Cplusplus&logoColor=purple">
+</a>
 </div>
 
 ---
